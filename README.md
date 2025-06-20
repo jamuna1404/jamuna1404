@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamuna Devi</h1>
-<h3 align="center">3rd Year Integrated MSc IT Student | Flutter & Python Enthusiast | Keploy API Fellow 🚀</h3>
+<h3 align="center">4th Year  MSc IT (Integrated) Student | Flutter & Python Enthusiast | Keploy API Fellow 🚀</h3>
 
 - 🔭 I’m currently working on:  
   Personal **Grocery Expense Tracker App** using **Flutter + SQLite**
