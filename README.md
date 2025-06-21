@@ -34,6 +34,7 @@
 ### 📌 Projects
 - 🚀 **Grocery Tracker App** – Flutter + local DB to manage personal grocery expenses  
 - 📋 **Event Planner App** – Full event workflow with user roles, chat, and calendar integration
+- **Bookies(Book Management System)** - a lightweight web app that lets you add, view, edit, and delete books in a stylish, card-based interface using Flask, SQLite, and vanilla JS.
 
 ---
 
