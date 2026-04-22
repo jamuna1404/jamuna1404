@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamuna Devi</h1>
-<h3 align="center">4th Year  MSc IT (Integrated) Student | Python Enthusiast | </h3>
+<h3 align="center">4th Year  MSc IT (Integrated) Student | Python Enthusiast | CEGian </h3>
 
 I’m currently working on:  
   Customer Complaint Management System (Version-based development) using Python + SQLite
@@ -8,10 +8,10 @@ I’m currently learning:
  Data Structures & Algorithms, Backend Development, REST APIs, and System Design Basics
  
 I’m looking to collaborate on:
-Python-based projects, backend systems, and automation tools.
+ Python-based projects, backend systems, and automation tools.
 
 Interests:
-Problem solving, backend architecture, scalable systems, and clean code practices.
+ Problem solving, backend architecture, scalable systems, and clean code practices.
 
 - How to reach me:  
   [LinkedIn][(https://www.linkedin.com/in/jamuna-devi-572224350 )]
@@ -35,10 +35,10 @@ SQLite, MySQL
 **Frontend (Basic):**
 HTML, CSS, React (fundamentals)
 
-** Concepts:**
+**Concepts:**
 CRUD Operations, Basic System Design
 
-** Tools:**
+**Tools:**
 Git, GitHub
 
 
